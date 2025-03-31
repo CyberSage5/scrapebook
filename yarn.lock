@@ -671,10 +671,10 @@
   resolved "https://registry.yarnpkg.com/@next/env/-/env-15.2.3.tgz#037ee37c4d61fcbdbb212694cc33d7dcf6c7975a"
   integrity sha512-a26KnbW9DFEUsSxAxKBORR/uD9THoYoKbkpFywMN/AFvboTt94b8+g/07T8J6ACsdLag8/PDU60ov4rPxRAixw==
 
-"@next/mdx@^15.2.3":
-  version "15.2.3"
-  resolved "https://registry.yarnpkg.com/@next/mdx/-/mdx-15.2.3.tgz#2f46936a2d6dbfbffe0349f80df0655a5f35bd74"
-  integrity sha512-rJAe5GvpTTA/i+9lQk/p321g0kXPLIuWJzUtRccW7w4l9vmOTGPPnXFjooEyYgyFcdbZxvJpSdjNq65VeQGKRQ==
+"@next/mdx@^15.2.2":
+  version "15.2.4"
+  resolved "https://registry.yarnpkg.com/@next/mdx/-/mdx-15.2.4.tgz#2706ab8bddd4bbcc3c7600041993a8ee7de51631"
+  integrity sha512-/T4iJYAbryNW9v5+8UHecSH524wUMgxl5ZHHklt9oXdtbb+tIW6LsRYtiderr4mK9GUDSNFrxN+UNlGJysNhxg==
   dependencies:
     source-map "^0.7.0"
 
@@ -1485,10 +1485,10 @@ react-tooltip@^5.28.0:
     "@floating-ui/dom" "^1.6.1"
     classnames "^2.3.0"
 
-react@^19.0.0:
-  version "19.0.0"
-  resolved "https://registry.yarnpkg.com/react/-/react-19.0.0.tgz#6e1969251b9f108870aa4bff37a0ce9ddfaaabdd"
-  integrity sha512-V8AVnmPIICiWpGfm6GLzCR/W5FXLchHop40W4nXBmdlEceh16rCN8O8LNWm5bh5XUX91fh7KpA+W0TgMKmgTpQ==
+react@^19.1.0:
+  version "19.1.0"
+  resolved "https://registry.yarnpkg.com/react/-/react-19.1.0.tgz#926864b6c48da7627f004795d6cce50e90793b75"
+  integrity sha512-FS+XFBNvn3GTAWq26joslQgWNoFu08F4kl0J4CgdNKADkdSGXQyTCnKteIAJy96Br6YbpEU1LSzV5dYtjMkMDg==
 
 remark-footnotes@2.0.0:
   version "2.0.0"
