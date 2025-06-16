@@ -27,7 +27,7 @@
     "react-dom": "^19.1.0",
     "react-masonry-css": "^1.0.16",
     "react-tilt": "^0.1.4",
-    "react-tooltip": "^5.28.1",
+    "react-tooltip": "^5.29.1",
     "rss": "^1.2.2",
     "superjson": "^1.13.3",
     "swr": "^2.3.3"
