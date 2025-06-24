@@ -21,7 +21,7 @@
     "lodash": "^4.17.21",
     "next": "^15.3.4",
     "nprogress": "^0.2.0",
-    "prisma": "6.9.0",
+    "prisma": "6.10.1",
     "react": "^19.1.0",
     "react-audio-player": "^0.17.0",
     "react-dom": "^19.1.0",
