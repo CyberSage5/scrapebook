@@ -30,7 +30,7 @@
     "react-tooltip": "^5.29.1",
     "rss": "^1.2.2",
     "superjson": "^1.13.3",
-    "swr": "^2.3.3"
+    "swr": "^2.3.4"
   },
   "devDependencies": {
     "babel-plugin-superjson-next": "^0.4.5"
